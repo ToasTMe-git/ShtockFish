@@ -1,3 +1,5 @@
 # ShtockFish
 a chess bot
-![ShtockFish]('ShtockFishי.png)
+<p align="center">
+  <img src="ShtockFish.png" width="500">
+</p>
