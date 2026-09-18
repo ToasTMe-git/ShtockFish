@@ -1,4 +1,4 @@
-# ♟️ ShtockFish
+# 🦀 ShtockFish
 
 ## An open-source chess bot
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 About
+##  About
 
 ShtockFish is an open-source chess bot project.
 
@@ -16,18 +16,18 @@ The goal of the project is to create a chess engine and experiment with chess pr
 
 ---
 
-## 🚀 Features
+## Features
 
-- ♟️ Chess game logic
-- 🤖 Computer chess bot
-- 🧠 Move searching
-- 📊 Position evaluation
-- 💻 Open-source code
-- 🔧 Still under development
+- not god chess game logic
+- Computer chess bot
+- Move searching
+- Position evaluation
+- Open-source code
+- Still under development
 
 ---
 
-## 🛠️ Project Status
+## Project Status
 
 ShtockFish is currently a work in progress.
 
@@ -35,10 +35,14 @@ New features, improvements, and bug fixes are being added over time.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ShtockFish/
 ├── ShtockFish.png
 ├── README.md
 └── ...
+```
+```
+Its suck at chess i know
+```
