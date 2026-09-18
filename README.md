@@ -18,7 +18,7 @@ The goal of the project is to create a chess engine and experiment with chess pr
 
 ## Features
 
-- not god chess game logic
+- not good chess game logic
 - Computer chess bot
 - Move searching
 - Position evaluation
