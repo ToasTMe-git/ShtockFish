@@ -7,7 +7,7 @@
 </p>
 
 ---
-### "shtock" in Hebrew is shut-up
+#### "shtock" in Hebrew is shut-up
 ---
 ##  About
 
