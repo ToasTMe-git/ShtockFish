@@ -7,7 +7,8 @@
 </p>
 
 ---
-
+### shtock in Hebrew is shut-up
+---
 ##  About
 
 ShtockFish is an open-source chess bot project.
