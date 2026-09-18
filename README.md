@@ -7,4 +7,4 @@
 
 
 
-####### i don't lie this bot suck at chess
+###### i don't lie this bot suck at chess
