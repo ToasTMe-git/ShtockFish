@@ -1,0 +1,2 @@
+# ShtockFish
+a chess bot
