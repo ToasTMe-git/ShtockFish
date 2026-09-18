@@ -35,14 +35,7 @@ New features, improvements, and bug fixes are being added over time.
 
 ---
 
-## Project Structure
 
-```text
-ShtockFish/
-├── ShtockFish.png
-├── README.md
-└── ...
-```
 ```
 Its suck at chess i know
 ```
