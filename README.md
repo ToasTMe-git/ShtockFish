@@ -19,10 +19,10 @@ The goal of the project is to create a chess engine and experiment with chess pr
 ## Features
 
 - not good chess game logic
-- Computer chess bot
-- Move searching
-- Position evaluation
-- Open-source code
+- Computer chess bot running at a potato
+- Move searching as a toaster
+- Position evaluation 
+- Open-source code 🐧
 - Still under development
 
 ---
@@ -46,3 +46,4 @@ ShtockFish/
 ```
 Its suck at chess i know
 ```
+###### i use arch btw
