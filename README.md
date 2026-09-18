@@ -1,3 +1,3 @@
 # ShtockFish
 a chess bot
-![Logo]('ShtockFishי.png)
+![ShtockFish]('ShtockFishי.png)
