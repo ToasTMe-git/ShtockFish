@@ -44,3 +44,5 @@ Its suck at chess i know
 
 ###### [i use arch btw](https://t.me/SHtockFishBot)
 
+<p align="center">
+  <img src="ShtockFish.png" width="500">
