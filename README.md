@@ -45,4 +45,4 @@ Its suck at chess i know
 ###### [i use arch btw](https://t.me/SHtockFishBot)
 
 <p align="center">
-  <img src="ShtockFish.png" width="500">
+  <img src="java-logo-png_seeklogo-75067.png" width="500">
