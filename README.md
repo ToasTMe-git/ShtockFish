@@ -1,4 +1,4 @@
-# 🦀 ShtockFish
+# ShtockFish
 
 ## An open-source chess bot
 
